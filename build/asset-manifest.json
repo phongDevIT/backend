@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4728b8e.css",
+    "main.js": "/static/js/main.bea6d08e.js",
+    "static/media/chamsoctuxa.jpg": "/static/media/chamsoctuxa.889940e8862f33caa882.jpg",
+    "static/media/5.png": "/static/media/5.67d28372dadeb4be437d.png",
+    "static/media/1.png": "/static/media/1.ef7a42a2de045b29a31d.png",
+    "static/media/3.png": "/static/media/3.ac92decd72526e2b9bbe.png",
+    "static/media/6.jpg": "/static/media/6.ce8d4bcbfee1f3cdb447.jpg",
+    "static/media/4.png": "/static/media/4.70f57fb3624768fa5763.png",
+    "static/media/bocongthuong.svg": "/static/media/bocongthuong.5ab7a42813b7da3c3ed7d9ee309e08e7.svg",
+    "static/media/7.jpg": "/static/media/7.e57c1bbf3ca21ae7b9ef.jpg",
+    "static/media/full-logo.png": "/static/media/full-logo.3d973a22c8e7998d0020.png",
+    "static/media/2.jpg": "/static/media/2.133318911b03bbd80dc9.jpg",
+    "static/media/5.jpg": "/static/media/5.6309f76c399a1a4a8d71.jpg",
+    "static/media/4.jpg": "/static/media/4.b6048e576e0676cc9089.jpg",
+    "static/media/1.jpg": "/static/media/1.3adbf57a6527d8ad0072.jpg",
+    "static/media/3.jpg": "/static/media/3.8eefa7a5aea5a551dc04.jpg",
+    "static/media/2.png": "/static/media/2.44154b3bc3e75223fc55.png",
+    "static/media/appp.svg": "/static/media/appp.6e1cb6cb06f10ce0791ddb1527c1f9a9.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/youtube.svg": "/static/media/youtube.6df9c8603a9552c4f0e68f0a0c60ba72.svg",
+    "static/media/facebook.svg": "/static/media/facebook.96cc94aea076ffb580f55d3ff332e292.svg",
+    "index.html": "/index.html",
+    "main.b4728b8e.css.map": "/static/css/main.b4728b8e.css.map",
+    "main.bea6d08e.js.map": "/static/js/main.bea6d08e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4728b8e.css",
+    "static/js/main.bea6d08e.js"
+  ]
+}
