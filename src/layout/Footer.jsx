@@ -147,7 +147,7 @@ function Footer(props) {
                     </StyleFooterItem1>
                 </StyleFooter>
                 <StyleFooter2 className="container">
-                    <FiSmartphone /> Tải ứng dụng BookingCare cho điện thoại
+                    <FiSmartphone /> Tải ứng dụng Met247 cho điện thoại
                     hoặc máy tính bảng:{" "}
                     <StyleLink className="ms-3 mx-3">
                         {" "}
